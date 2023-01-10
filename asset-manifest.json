@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stemastr777.github.io/static/css/main.5c625ce6.css",
+    "main.js": "/stemastr777.github.io/static/js/main.5a793799.js",
+    "static/js/787.28cb0dcd.chunk.js": "/stemastr777.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/stemastr777.github.io/index.html",
+    "main.5c625ce6.css.map": "/stemastr777.github.io/static/css/main.5c625ce6.css.map",
+    "main.5a793799.js.map": "/stemastr777.github.io/static/js/main.5a793799.js.map",
+    "787.28cb0dcd.chunk.js.map": "/stemastr777.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c625ce6.css",
+    "static/js/main.5a793799.js"
+  ]
+}
