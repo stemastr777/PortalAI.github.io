@@ -1,0 +1,182 @@
+[
+    {
+        "name": "namelix",
+        "url": "https://namelix.com",
+        "icon": "https://namelix.com/favicon32.gif",
+        "type": "generator",
+        "object": "logo",
+        "desc": "Generate wonderful logo",
+        "color": "#505abc"
+    },
+    {
+        "name": "Sythesia",
+        "url": "https://www.synthesia.io",
+        "icon": "https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc0796f359b6681ac07045_favicon.ico",
+        "type": "generator",
+        "object": "video",
+        "desc": "Create videos from plain text in minutes",
+        "color": "#1223c9"
+    },
+    {
+        "name": "Craiyon",
+        "url": "https://www.craiyon.com",
+        "icon": "https://www.craiyon.com/favicon-32x32.png",
+        "type": "generator",
+        "object": "image",
+        "desc": "Free online AI image generator from text",
+        "color": "#d94607"
+    },
+    {
+        "name": "AIVA",
+        "url": "https://www.aiva.ai",
+        "icon": "https://www.aiva.ai/assets/img/favicon.png",
+        "type": "platform",
+        "object": "music",
+        "desc": "The Artificial Intelligence composing emotional soundtrack music",
+        "color": "#02b4c4"
+    },
+    {
+        "name": "Animated Drawings",
+        "url": "https://sketch.metademolab.com/",
+        "icon": "https://sketch.metademolab.com/favicon-32x32.png",
+        "type": "generator",
+        "object": "image",
+        "desc": "Bring children's drawings to life, by animating characters to move around!",
+        "color": "#0259c4"
+    },
+    {
+        "name": "HyperWrite",
+        "url": "https://hyperwriteai.com/",
+        "icon": "https://hyperwriteai.com/favicon.png",
+        "type": "platform",
+        "object": "document",
+        "desc": "HyperWrite provides suggestions and sentence completions to improve your writing, wherever you write.",
+        "color": "#029dc4"
+    },
+    {
+        "name": "AutoDraw",
+        "url": "https://www.autodraw.com/",
+        "icon": "https://www.autodraw.com/assets/images/favicon.png",
+        "type": "platform",
+        "object": "image",
+        "desc": "Fast drawing for everyone. ",
+        "color": "gray"
+    },
+    {
+        "name": "Fontjoy",
+        "url": "https://fontjoy.com/",
+        "icon": "https://fontjoy.com/favicon16.gif",
+        "type": "generator",
+        "object": "font",
+        "desc": "Generate font combinations with deep learning",
+        "color": "blue"
+    },
+    {
+        "name": "Let's Enhance",
+        "url": "https://letsenhance.io/",
+        "icon": "https://letsenhance.io/icons/icon-512x512.png?v=f1e46af4ba47ba155b491e76526268c9",
+        "type": "generator",
+        "object": "image",
+        "desc": "Automatic AI editor to increase image resolution without losing quality.",
+        "color": "#4e3df7"
+    },
+    {
+        "name": "Khroma",
+        "url": "https://www.khroma.co/",
+        "icon": "https://www.khroma.co/assets/icons/fav.png",
+        "type": "generator",
+        "object": "color",
+        "desc": "Khroma uses AI to learn which colors you like and creates limitless palettes for you",
+        "color": "#02142B"
+    },
+    {
+        "name": "Replika",
+        "url": "https://replika.com/",
+        "icon": "https://replika.com/favicon-32x32.png",
+        "type": "platform",
+        "object": "companion",
+        "desc": "An AI companion who is eager to learn and would love to see the world through your eyes.",
+        "color": "#5c75cc"
+    },
+    {
+        "name": "Lumen5",
+        "url": "https://lumen5.com/",
+        "icon": "https://storage.googleapis.com/lumen5-site-images/favicon/favicon.ico",
+        "type": "platform",
+        "object": "video",
+        "desc": "makes it easy for anyone on your team to create engaging video content in minutes.",
+        "color": "#5846f6;"
+    },  
+    {
+        "name": "FlowCV",
+        "url": "https://flowcv.com/",
+        "icon": "https://flowcv.com/icon.svg",
+        "type": "platform",
+        "object": "document",
+        "desc": "Format your resume with just a few clicks and reformat it easily.",
+        "color": "#ec008c"
+    },
+    {
+        "name": "removebg",
+        "url": "https://www.remove.bg/",
+        "icon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao",
+        "type": "generator",
+        "object": "image",
+        "desc": "Remove Image Background",
+        "color": "gray"
+    },
+    {
+        "name": "Phonesites",
+        "url": "https://phonesites.com/",
+        "icon": "https://assets.website-files.com/630559af4b50eff39dc8d5dd/6310297162ead92bc3c9ff8b_favicon.png",
+        "type": "platform",
+        "object": "website",
+        "desc": "Easily build websites, landing pages, surveys, pop-ups, and digital business cards in just 10 minutes.",
+        "color": "blue"
+    },
+    {
+        "name": "Jasper",
+        "url": "https://www.jasper.ai/",
+        "icon": "https://assets-global.website-files.com/60e5f2de011b86acebc30db7/60e5f2de011b86e6acc31077_Favicon.png",
+        "type": "platform",
+        "object": ["image", "document"],
+        "desc": "Jasper is the AI Content Platform that helps you and your team break through creative blocks to create amazing, original content 10X faster.",
+        "color": "#ff006f"
+    },
+    {
+        "name": "Boomy",
+        "url": "https://boomy.com/",
+        "icon": "https://boomy.com/favicon.ico",
+        "type": "generator",
+        "object": "music",
+        "desc": "Create original songs in seconds, even if you've never made music before.",
+        "color": "#f81b55"
+    },
+    {
+        "name": "poempotraits",
+        "url": "https://artsexperiments.withgoogle.com/poemportraits",
+        "icon": "https://artsexperiments.withgoogle.com/poemportraits/img/icons/favicon-32x32.png",
+        "type": "generator",
+        "object": "poem",
+        "desc": "Donate a word to become part of an ever evolving collective poem and create your own POEMPORTRAIT.",
+        "color": "#f81b5a"
+    },
+    {
+        "name": "Thing Translator",
+        "url": "https://experiments.withgoogle.com/thing-translator",
+        "icon": "",
+        "type": "platform",
+        "object": "translate",
+        "desc": "Take a picture of something to hear how to say it in a different language.",
+        "color": "darkgray"
+    },
+    {
+        "name": "Podcastle",
+        "url": "https://podcastle.ai/",
+        "icon": "https://podcastle.ai/images/favicon.ico",
+        "type": "platform",
+        "object": "text-to-speech",
+        "desc": "Studio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform",
+        "color": "black"
+    }
+]
